@@ -13,7 +13,9 @@
   ],
   "main": "dist/index.js",
   "keywords": [
-    "learn-languages"
+    "learn-languages",
+    "terminal",
+    "languages"
   ],
   "devDependencies": {
     "eslint": "^3.1.1",
