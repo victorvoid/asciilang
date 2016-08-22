@@ -1,0 +1,232 @@
+Você vai sozinho?
+Are you here alone?	
+
+
+Posso trazer meu amigo/minha amiga?
+Can I bring my friend?	
+
+
+Posso ter o recibo por favor?
+Can I have a receipt please?	
+
+
+Posso ter um desconto?
+Can it be cheaper?	
+
+
+Você pode nos trazer o carápio por favor?
+Can we have a menu please.	
+
+
+Você pode segurar isso para mim?
+Can you hold this for me?	
+
+
+Você tem filhos?
+Do you have any children?	
+
+
+Você sabe quanto custa?
+Do you know how much it costs?	
+
+
+Você já comeu num restaurante?
+Have you eaten at that restaurant?	
+
+
+Você já comeu?
+Have you eaten yet?	
+
+
+Você já comeu sopa de batata?
+Have you ever had Potato soup?	
+
+
+Ele gosta de suco mas não gosta de leite.
+He likes juice but he doesn't like milk	
+
+
+Aqui está sua salada
+Here is your salad.	
+
+
+Aqui está o seu pedido
+Here's your order.	
+
+
+Como está o sabor?
+How does it taste?	
+
+
+Para quantas pessoas? (restaurante)
+How many people?	
+
+
+Eu concordo.
+I agree.	
+
+
+Eu nunca estive lá
+I haven't been there.	
+
+
+Eu não acabei de comer.
+I haven't finished eating.	
+
+
+Eu gosto.
+I like it.	
+
+
+Eu tenho somente 5 dólares.
+I only have 5 dollars.	
+
+
+Eu acho que eu preciso ir ao médico.
+I think I need to see a doctor.	
+
+
+Eu entendo.
+I understand.	
+
+
+Eu queria uma mesa perto da janela.
+I'd like a table near the window.	
+
+
+Eu gostaria de ligar para os Estados Unidos.
+I'd like to call the United States.	
+
+
+Eu te dou uma ligada.
+I'll give you a call.	
+
+
+Eu quero uma xícara de chá por favor.
+I'll have a cup of tea please.	
+
+
+Eu quero um copo com água por favor.
+I'll have a glass of water please.	
+
+
+Eu sou dos Estados Unidos.
+I'm from America.	
+
+
+Eu estou indo para a cama.
+I'm going to bed.	
+
+
+Estou aqui a negócios.
+I'm here on business.	
+
+
+Lamento/Sinto muito.
+I'm sorry.	
+
+
+Hoje é 25 de agosto.
+It's August 25th.	
+
+
+3 de junho.
+June 3rd.	
+
+
+A comida estava deliciosa.
+The food was delicious.	
+
+
+Tem algumas maçãs na geladeira.
+There are some apples in the refrigerator.	
+
+
+Tem um restaurante aqui perto.
+There's a restaurant near here.	
+
+
+Tem um restaurante alí mas eu não acho que seja muito bom.
+There's a restaurant over there, but I don't think it's very good.	
+
+
+Garçon!
+Waiter!	
+
+
+Garçonete!
+Waitress!	
+
+
+Nós podemos comer comida italiana ou chinesa.
+We can eat Italian or Chinese food.	
+
+
+Nós queremos dois copos com água por favor.
+We'll have two glasses of water please.	
+
+
+O que você vai quere?
+What are you going to have?	
+
+
+O que você recomenda?
+What do you recommend?	
+
+
+O que você gostaria de beber?
+What would you like to drink?	
+
+
+O que você gostaria de comer?
+What would you like to eat?	
+
+
+Qual é o teu endereço eletrônico? (email)
+What's your email address?	
+
+
+Onde tem um caixa eletrônico?
+Where is an ATM?	
+
+
+Onde tem um médico que fale inglês?
+Where is there a doctor who speaks English?	
+
+
+Qual deles?
+Which one?	
+
+
+Você pede a ele para vir aqui?
+Would you ask him to come here?	
+
+
+Você gostaria de um copo com água?
+Would you like a glass of water?	
+
+
+Você gostaria de café ou chá?
+Would you like coffee or tea?	
+
+
+Você gostaria de um pouco de água?
+Would you like some water?	
+
+
+Você gostaria de um pouco de vinho?
+Would you like some wine?	
+
+
+Você gostaria de algo para beber?
+Would you like something to drink?	
+
+
+Você gostaria de fazer um passeio?
+Would you like to go for a walk?	
+
+
+Você gostaria de assistir TV?
+Would you like to watch TV?	
+
+

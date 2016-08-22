@@ -1,0 +1,380 @@
+Você é americano?
+Are you American?	
+
+
+Você vai vir hoje à noite?
+Are you coming this evening?	
+
+
+Você está livre hoje à noite?
+Are you free tonight?	
+
+
+Você vai pegar um avião ou um trem?
+Are you going to take a plane or train?	
+
+
+Você está com fome?
+Are you hungry?	
+
+
+Você tem certeza?
+Are you sure?	
+
+
+Você vai trabalhar amanhã?
+Are you working Tomorrow?	
+
+
+O negócio é bom
+Business is good.	
+
+
+Saúde!
+Cheers!	
+
+
+Nevou ontem?
+Did it snow yesterday?	
+
+
+Você recebeu meu email?
+Did you get my email?	
+
+
+Você tomou seu remédio?
+Did you take your medicine?	
+
+
+Você está melhor?
+Do you feel better?	
+
+
+Você vai frequentemente para a Flórida?
+Do you go to Florida often?	
+
+
+Você tem um outro?
+Do you have another one?	
+
+
+Você sabe onde tem uma loja que vende toalhas?
+Do you know where there's a store that sells towels?	
+
+
+Você gosta daqui?
+Do you like it here?	
+
+
+Você gosta deste livro?
+Do you like the book?	
+
+
+Você precisa de alguma coisa?
+Do you need anything?	
+
+
+Você pratica algum esporte?
+Do you play any sports?	
+
+
+Você vende remédios?
+Do you sell medicine?	
+
+
+Você estuda inglês?
+Do you study English?	
+
+
+Você quer vir comigo?
+Do you want to come with me?	
+
+
+Você quer ir comigo?
+Do you want to go with me?	
+
+
+Com licença.
+Excuse me.	
+
+
+Me telefona
+Give me a call.	
+
+
+O teu irmão já foi à Califórnia?
+Has your brother been to California?	
+
+
+Você já a encontrou?
+Have they met her yet?	
+
+
+Você já fez isso antes?
+Have you done this before?	
+
+
+Há quanto tempo você está aqui?
+How long have you been here?	
+
+
+Há quanto tempo você está na América?
+How long have you been in America?	
+
+
+Há quanto tempo você vive aqui?
+How long have you lived here?	
+
+
+Quantos filhos você tem?
+How many children do you have?	
+
+
+Quantos idiomas você fala?
+How many languages do you speak?	
+
+
+Quantas pessoas tem na tua família?
+How many people do you have in your family?	
+
+
+Quanto você gostaria?
+How much would you like?	
+
+
+Quantos anos você tem?
+How old are you?	
+
+
+Eu comprei uma camisa ontem.
+I bought a shirt yesterday.	
+
+
+Eu não me sinto bem.
+I don't feel well.	
+
+
+Eu tenho dor no meu braço.
+I have pain in my arm.	
+
+
+Eu tenho que lavar minhas roupas.
+I have to wash my clothes.	
+
+
+Eu tenho duas irmãs.
+I have two sisters.	
+
+
+Eu me lembro.
+I remember.	
+
+
+Eu falo um pouco de inglês.
+I speak a little English.	
+
+
+Eu direi a ele que você ligou.
+I'll tell him you called.	
+
+
+Eu tenho 32.
+I'm 32.	
+
+
+Eu meço 6'2" (1.87m)
+I'm 6'2".	
+
+
+Meu tamanho é 8 (38)
+I'm a size 8.	
+
+
+Eu sou alérgico a frutos do mar.
+I'm allergic to seafood.	
+
+
+Eu sou americano.
+I'm American.	
+
+
+Eu estou bem, e você?
+I'm fine, and you?	
+
+
+Eu não estou com medo.
+I'm not afraid.	
+
+
+Eu estou doente.
+I'm sick.	
+
+
+A tua casa é como esta?
+Is your house like this one?	
+
+
+O teu marido também é de Boston?
+Is your husband also from Boston?	
+
+
+Não é muito caro.
+It's not very expensive.	
+
+
+Eu já estive lá.
+I've been there.	
+
+
+Vamos dividir.
+Let's share.	
+
+
+Minha filha está aqui.
+My daughter is here.	
+
+
+Meu pai já esteve lá.
+My father has been there.	
+
+
+Meu pai é advogado.
+My father is a lawyer.	
+
+
+Meu/Minha avô/avó morreu no ano passado.
+My grandmother passed away last year.	
+
+
+Meu nome é John Smith.
+My name is John Smith.	
+
+
+Me filho estuda computação.
+My son studies computers.	
+
+
+Meu filho.
+My son.	
+
+
+Não, eu sou americano.
+No, I'm American.	
+
+
+Não, esta é a primeira vez.
+No, this is the first time.	
+
+
+Nossos filhos estão nos Estados Unidos.
+Our children are in America.	
+
+
+Ela é uma especialista/perita.
+She's an expert.	
+
+
+Ela é mais velha que eu.
+She's older than me.	
+
+
+Aquele carro parece o meu.
+That car is similar to my car.	
+
+
+Esta é a Sra. Smith.
+This is Mrs. Smith.	
+
+
+Esta é a minha mãe.
+This is my mother.	
+
+
+Esta é a primeira vez que eu venho aqui.
+This is the first time I've been here.	
+
+
+Nós temos dois garotos e uma garota.
+We have two boys and one girl.	
+
+
+O que você vai fazer hoje à noite?
+What are you going to do tonight?	
+
+
+Quais são os teus passsatempos?
+What are your hobbies?	
+
+
+O que você estuda?
+What do you study?	
+
+
+O que você quer fazer?
+What do you want to do?	
+
+
+Em que escola você foi?
+What school did you go to?	
+
+
+Qual é o teu filme favorito?
+What's your favorite movie?	
+
+
+Qual é o teu sobrenome?
+What's your last name?	
+
+
+Qual é o teu nome?
+What's your name?	
+
+
+Onde estão as camisetas?
+Where are the t-shirts?	
+
+
+Onde você foi?
+Where did you go?	
+
+
+Onde você aprendeu inglês?
+Where did you learn English?	
+
+
+Onde você trabalhou antes daqui?
+Where did you work before you worked here?	
+
+
+Onde você mora?
+Where do you live?	
+
+
+Onde você estava?
+Where were you?	
+
+
+Quem mandou esta carta?
+Who sent this letter?	
+
+
+Você gostaria de comprar isto?
+Would you like to buy this?	
+
+
+Você fala inglês muito bem.
+You speak English very well.	
+
+
+Teus filhos se comportam muito bem.
+Your children are very well behaved.	
+
+
+Sua filha.
+Your daughter.	
+
+
+Você é mais esperto/a que ele.
+You're smarter than him.	
+
+

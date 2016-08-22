@@ -1,0 +1,372 @@
+E você?
+And you?	
+
+
+Algo mais? / Mais alguma coisa?
+Anything else?	
+
+
+Eles são iguais? / São as mesmas coisas?
+Are they the same?	
+
+
+Você está com medo?
+Are you afraid?	
+
+
+Você vai ao casamento deles?
+Are you going to attend their wedding?	
+
+
+Você é casado?
+Are you married?	
+
+
+Você está bem?
+Are you okay?	
+
+
+Você está doente?
+Are you sick?	
+
+
+Atrás do banco
+Behind the bank.	
+
+
+Posso emprestar algum dinheiro?
+Can I borrow some money?	
+
+
+Pode me dar a conta por favor?
+Can I have the bill please?	
+
+
+Você poderia ligar mais tarde?
+Can you call back later?	
+
+
+Você poderia me ligar mais tarde?
+Can you call me back later?	
+
+
+Você pode carregarr isso pra mim?
+Can you carry this for me?	
+
+
+Você pode consertar isso?
+Can you fix this?	
+
+
+Você pode me dar um exemplo?
+Can you give me an example?	
+
+
+Você poderia falar mais alto por favor?
+Can you speak louder please?	
+
+
+Você sabe nadar?
+Can you swim?	
+
+
+Você aceita dólares?
+Do you accept U.S. Dollars?	
+
+
+Você tem namorada?
+Do you have a girlfriend?	
+
+
+Você está com um problema?
+Do you have a problem?	
+
+
+Você tem compromisso?
+Do you have an appointment?	
+
+
+Você ouviu isso?
+Do you hear that?	
+
+
+Você sabe como chegar no Hotel Marriott?
+Do you know how to get to the Marriott Hotel?	
+
+
+Você sabe o que isso significa?
+Do you know what this means?	
+
+
+Você sabe onde posso pegar um táxi?
+Do you know where I can get a taxi?	
+
+
+Você sabe onde estão os meus óculos?
+Do you know where my glasses are?	
+
+
+Você gosta dos teus colegas de trabalho?
+Do you like your co-workers?	
+
+
+Você precisa de mais alguma coisa?
+Do you need anything else?	
+
+
+Você entende?
+Do you understand?	
+
+
+Você gosta da escola?
+Does he like the school?	
+
+
+Me dê a caneta.
+Give me the pen.	
+
+
+Como você sabe?
+How do you know?	
+
+
+Como ela está?
+How is she?	
+
+
+Quanto tempo demora?
+How long is it?	
+
+
+Quantos/quantas
+How many?	
+
+
+Quanto custa?
+How much is it?	
+
+
+Eu tenho um monte de coisas pra fazer.
+I have a lot of things to do.	
+
+
+Em 30 minutos.
+In 30 minutes.	
+
+
+Alguém mais está vindo?
+Is anyone else coming?	
+
+
+Está tudo OK?
+Is everything ok?	
+
+
+Está frio lá fora?
+Is it cold outside?	
+
+
+É longe daqui?
+Is it far from here?	
+
+
+Está quente?
+Is it hot?	
+
+
+Está chovendo?
+Is it raining?	
+
+
+Tem algo mais barato?
+Is there anything cheaper?	
+
+
+O teu filho está aqui?
+Is your son here?	
+
+
+Eu deveria esperar?
+Should I wait?	
+
+
+O grande ou o pequeno?
+The big one or the small one?	
+
+
+Os carros são americanos.
+The cars are American.	
+
+
+Houve algum problema?
+Were there any problems?	
+
+
+Você estava na biblioteca ontem à noite?
+Were you at the library last night?	
+
+
+O que você está fazendo?
+What are you doing?	
+
+
+No que você está pensando?
+What are you thinking about?	
+
+
+Sobre o que vocês dois estão falando?
+What are you two talking about?	
+
+
+O que você fez ontem à noite?
+What did you do last night?	
+
+
+O que você fez ontem?
+What did you do yesterday?	
+
+
+O que você achou?
+What did you think?	
+
+
+O que eles estudam?
+What do they study?	
+
+
+O que você tem?
+What do you have?	
+
+
+O que você acha?
+What do you think?	
+
+
+O que aconteceu?
+What happened?	
+
+
+O que é?
+What is it?	
+
+
+O que é isso?
+What is that?	
+
+
+O que eu deveria vestir?
+What should I wear?	
+
+
+O que tem nisso?
+What's in it?	
+
+
+Qual é a temperatura?
+What's the temperature?	
+
+
+O que é isto?
+What's this?	
+
+
+O que se passa?/O que está acontecendo?
+What's up?	
+
+
+De onde você é?
+Where are you from?	
+
+
+Onde posso alugar um carro?
+Where can I rent a car?	
+
+
+Quando aconteceu?
+Where did it happen?	
+
+
+Onde você aprendeu?
+Where did you learn it?	
+
+
+De onde ele é?
+Where is he from?	
+
+
+Onde ele está?
+Where is he?	
+
+
+Qual é melhor o espaguete ou a salada de frango?
+Which is better, the spaghetti or chicken salad?	
+
+
+Qual você quer?
+Which one do you want?	
+
+
+Qual é mais barato?
+Which one is cheaper?	
+
+
+Qual é o/a melhor?
+Which one is the best?	
+
+
+Em qual escola ele vai?
+Which school does he go to?	
+
+
+Quem são eles?
+Who are they?	
+
+
+Quem você está procurando?
+Who are you looking for?	
+
+
+Quem fala? (perguntando quem está no telefone)
+Who is it?	
+
+
+Quem te ensinou isso?
+Who taught you that?	
+
+
+Quem fala?
+Who's calling?	
+
+
+Que é aquele homem alí?
+Who's that man over there?	
+
+
+Por que você disse isso?
+Why did you say that?	
+
+
+Você me passa o sal por favor?
+Will you pass me the salt please?	
+
+
+Você poria isso no carro pra mim?
+Will you put this in the car for me?	
+
+
+Você pede a ele pra me ligar de volta por favor?
+Would you ask him to call me back please?	
+
+
+Sim.
+Yes.	
+
+
+Você tem um carro legal.
+You have a very nice car.	
+
+
+Você se parece com minha irmã.
+You look like my sister.	
+
+
