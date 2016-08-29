@@ -1,15 +1,15 @@
-module.exports = function(file){	
-	const fs = require('fs');
-	const util = require('./util');
-	const chalk    = require('chalk');
+import {readFileSync} from 'fs';
+import {util} from './util';
+import chalk from 'chalk';
 
+export const Questions = (file) => {	
 	let category = ['common-expressions', 'greetings', 'travels', 'numbers']; //etc
 	let phrases = [];
 	let arr = [];
 	let newObj = {};
 
-	//comon-expressions
-	let readPhrases = fs.readFileSync(file, "utf-8")
+	// comon-expressions
+	let readPhrases = readFileSync(__dirname+file, 'utf8')
 		.split('\n')
 		.filter((n) => n != '')
 		.map((line) => line.trim());
@@ -23,7 +23,7 @@ module.exports = function(file){
 			arr.push({question: newObj.question, answers: newObj.answers});
 		}
 	}
-
+	
 	let questions = arr.reduce((prev, curr, i) => {
 		let newObj = {
 			type: 'input',

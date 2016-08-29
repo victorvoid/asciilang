@@ -1,0 +1,172 @@
+Posso ver teu passaporte por favor?
+Can I see your passport please?	
+
+
+Quer deixar uma mensagem?
+Can I take a message?	
+
+
+Posso experimentar?
+Can I try it on?	
+
+
+Podemos nos sentar aqui?
+Can we sit over there?	
+
+
+Você veio com sua família?
+Did you come with your family?	
+
+
+Você acha que é possível?
+Do you think it's possible?	
+
+
+Aqui está meu telefone
+Here's my number.	
+
+
+Ele não está agora
+He's not in right now.	
+
+
+Oi, a Sra. Smith está, por favor?
+Hi, is Mrs. Smith there, please?	
+
+
+Eu tenho três filhos, duas meninas e um menino.
+I have three children, two girls and one boy.	
+
+
+Eu preciso de uns lenços.
+I need some tissues.	
+
+
+Eu quero te dar um presente.
+I want to give you a gift.	
+
+
+Eu também queria um pouco de água, por favor.
+I'd like some water too, please.	
+
+
+Eu queria comprar uma garrafa de água, por favor.
+I'd like to buy a bottle of water, please.	
+
+
+Eu queria comprar alguma coisa.
+I'd like to buy something.	
+
+
+Eu gostaria de ir à loja.
+I'd like to go to the store.	
+
+
+Eu gostaria de alugar um carro.
+I'd like to rent a car.	
+
+
+Eu gostaria de enviar um fax.
+I'd like to send a fax.	
+
+
+Eu gostaria de enviar isto à América.
+I'd like to send this to America.	
+
+
+Eu gostaria de falar com o Sr. Smith, por favor.
+I'd like to speak to Mr. Smith please.	
+
+
+Eu volto logo.
+I'll be right back.	
+
+
+Eu ligo mais tarde.
+I'll call back later.	
+
+
+Eu te ligo na sexta,
+I'll call you on Friday.	
+
+
+Eu te ensinarei.
+I'll teach you.	
+
+
+Estou OK.
+I'm ok.	
+
+
+Tem algum guia que fale inglês?
+Is there an English speaking guide?	
+
+
+Masculino ou feminino?
+Male or female?	
+
+
+Meu celular não está com um bom sinal.
+My cell phone doesn't have good reception.	
+
+
+Meu celular não funciona.
+My cell phone doesn't work.	
+
+
+Por favor tire teus sapatos.
+Please take off your shoes.	
+
+
+Desculpe, eu acho que eu tenho um número errado.
+Sorry, I think I have the wrong number.	
+
+
+Qual é o DDD (Código de Área)
+What is the area code?	
+
+
+Qual o nome da empresa para a qual você trabalha?
+What's the name of the company you work for?	
+
+
+O que está errado?
+What's wrong?	
+
+
+Qual é o teu endereço?
+What's your address?	
+
+
+Onde posso achar um hospital?
+Where can I find a hospital?	
+
+
+Onde fica o restaurante mais próximo?
+Where's the closest restaurant?	
+
+
+Onde tem uma farmácia?
+Where's the pharmacy?	
+
+
+Quem é você?
+Who are you?	
+
+
+Quem é?
+Who is that?	
+
+
+Com quem você gostaria de falar?
+Who would you like to speak to?	
+
+
+Você me leva pra casa?
+Will you take me home?	
+
+
+Você gostaria de água ou leite?
+Would you like water or milk?	
+
+

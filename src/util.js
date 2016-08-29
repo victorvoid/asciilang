@@ -1,4 +1,4 @@
-let utils = {
+export const util = {
 	removeDot: (line) => line[line.length-1] === '.' 
 		? line.slice(0, line.indexOf(line[line.length-1])) //final text
 		: /* ;^;  */ line,
@@ -16,5 +16,3 @@ let utils = {
 		process.stdout.write("\u001b[2J\u001b[0;0H");
 	}
 }
-
-module.exports = utils;

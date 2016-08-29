@@ -1,7 +1,7 @@
 {
   "name": "asciilang",
   "version": "0.0.1",
-  "description": "...",
+  "description": "Foreign languages for developers.",
   "main": "lib/index.js",
   "scripts": {
     "test": "npm run build && ./node_modules/.bin/babel-node ./node_modules/.bin/babel-istanbul cover ./node_modules/.bin/_mocha -- --require should",

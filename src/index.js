@@ -1,10 +1,10 @@
 'use strict';
 
-const inquirer = require('inquirer');
-const chalk = require('chalk');
-const user = require('./user');
-const util = require('./util');
-const languages = require('./languages');
+import inquirer from 'inquirer';
+import chalk from 'chalk';
+import user from './user';
+import {util} from './util';
+import languages from './languages';
 //start
 util.clean();
 console.log('Welcome to the ' + chalk.blue('asciilang'));
@@ -35,26 +35,22 @@ let mylang = [
 inquirer.prompt(mylang).then(function (answers) {
 
   usrModel.mylang = answers.mylang;
-  console.log('test', usrModel);;
     switch(usrModel.mylang){
       case "eng":
         langUser = languages.ENG;
         break;
       case "ptbr":
-        console.log('ptbrrrr!');
         langUser = languages.PTBR;
-        console.log('lanuser: ',languages);
         break;
       default:
-        console.log('nenhum..');
-        break
+        console.log('/o/ not');
+        break;
     }
 
     start(langUser);
 });
 
 let start = (langUsr) => {
-  console.log('teste');
   let questions = [
     {
       type: 'list',
