@@ -6,7 +6,7 @@ import languages from './languages';
 import {Questions} from './questions.js';
 
 let arrQuestions;
-let app = (category, lang) => {
+export const init = (category, lang) => {
 	util.clean();
 	switch(category){
 		case lang.categories[0]: /** Common Expression ☜(ˆ▿ˆc) **/
@@ -28,5 +28,3 @@ let app = (category, lang) => {
 		languages.ENG
 	)());
 }
-
-module.exports = app;

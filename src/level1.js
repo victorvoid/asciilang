@@ -7,11 +7,11 @@ import {next, nextLevel, rest} from './levelsfuncs';
 export default function Level1(arrQuestions, lang){
 	let level = arrQuestions.slice(0, 10);
 	console.log(chalk.yellow(lang.messages['translatetoeng'])); //translate to ..[lang]
-	inquirer.prompt(level).then(function (answers) {
+	inquirer.prompt(level).then( answers => {
 		util.clean();
 		console.log(chalk.green('Parabéns Você conseguiu completar 10 frases ᕙ(`▿´)ᕗ '));
 		
-		next(function(response){
+		next(response => {
 			switch(response){
 				case "Próximo nível":
 					nextLevel(2, arrQuestions, lang);

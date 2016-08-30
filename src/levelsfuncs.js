@@ -3,7 +3,7 @@ import chalk from 'chalk';
 import {util} from './util';
 import * as levels from './levels';
 
-export const next = (callback) => {
+export const next = callback => {
 	let questions = [
 		{
 		    type: 'list',
@@ -12,7 +12,7 @@ export const next = (callback) => {
 		    choices: ['Próximo nível', 'Descansar', 'Repetir nível', 'Escolher outra categoria']
 		}
 	];
-	inquirer.prompt(questions).then(function (answers) {
+	inquirer.prompt(questions).then(answers => {
 		util.clean();
 		callback(answers.isnext)
 	});
@@ -22,10 +22,10 @@ export const nextLevel = (numLevel, arrQuestions, lang) =>{
 	levels['Level'+numLevel](arrQuestions,  lang);
 }
 
-export const rest = (seg) => {
+export const rest = seg => {
 	console.log(chalk.yellow('... (̶◉͛‿◉̶) ... ok'));
-
-	setTimeout(function(){
-		console.log('Pronto... vamos praticar!')
-	}, seg*1000);
+	util.timeout(seg * 1000).then(()=>{
+		console.log('back!!!');
+		throw new Error("hmm");
+	})
 }

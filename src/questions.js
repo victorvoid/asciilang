@@ -2,7 +2,7 @@ import {readFileSync} from 'fs';
 import {util} from './util';
 import chalk from 'chalk';
 
-export const Questions = (file) => {	
+export const Questions = file => {	
 	let category = ['common-expressions', 'greetings', 'travels', 'numbers']; //etc
 	let phrases = [];
 	let arr = [];
@@ -11,11 +11,11 @@ export const Questions = (file) => {
 	// comon-expressions
 	let readPhrases = readFileSync(__dirname+file, 'utf8')
 		.split('\n')
-		.filter((n) => n != '')
-		.map((line) => line.trim());
+		.filter(n => n != '')
+		.map(line => line.trim());
 
 	let countPhrases = readPhrases.length;
-	for(var i = 0; i < countPhrases; i++){
+	for(let i = 0; i < countPhrases; i++){
 		if(i % 2 == 0)
 			newObj['question'] = readPhrases[i];
 		else{
@@ -32,7 +32,7 @@ export const Questions = (file) => {
 			response: util.removeDot(curr.answers)
 		}
 		//validate:
-		newObj['validate'] = function(value){
+		newObj['validate'] = value => {
 			if(value.toLowerCase() === newObj.response.toLowerCase()){
 				util.clean();
 				console.log(chalk.green('\n 👊 (• ͜ʖ•)'));

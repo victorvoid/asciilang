@@ -1,13 +1,13 @@
 'use strict';
-
 import inquirer from 'inquirer';
 import chalk from 'chalk';
 import user from './user';
 import {util} from './util';
 import languages from './languages';
-//start
+import {init} from './app';
+
 util.clean();
-console.log('Welcome to the ' + chalk.blue('asciilang'));
+console.log(`Welcome to the ${chalk.blue('asciilang')}`);
 let langUser;
 
 let usrModel = {
@@ -32,7 +32,7 @@ let mylang = [
   }
 ];
 
-inquirer.prompt(mylang).then(function (answers) {
+inquirer.prompt(mylang).then(answers => {
 
   usrModel.mylang = answers.mylang;
     switch(usrModel.mylang){
@@ -50,21 +50,19 @@ inquirer.prompt(mylang).then(function (answers) {
     start(langUser);
 });
 
-let start = (langUsr) => {
+let start = langUsr => {
   let questions = [
     {
       type: 'list',
       name: 'category',
       message: langUsr.messages.messageCategory,
       choices: langUsr.categories,
-      default: function(){
-        util.clean();
-      }
+      default: () => util.clean()
     }
   ];
 
-  inquirer.prompt(questions).then(function (answers) {
-    require('./app')(answers.category, langUsr)//starting
+  inquirer.prompt(questions).then(answers => {
+    init(answers.category, langUsr);//starting
   });
 }
 

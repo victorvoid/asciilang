@@ -1,16 +1,16 @@
-const fs = require('fs');
+import {readFileSync, writeFile} from 'fs';
 module.exports = { 
-  hasUser: function(user){
-   var obj = JSON.parse(fs.readFileSync('./user.json', 'utf8'));
-   if(obj.mylang != ''){
-    return true;
-   }
-   return false;
+  hasUser: user => {
+    let obj = JSON.parse(readFileSync('./user.json', 'utf8'));
+    if(obj.mylang != ''){
+      return true;
+    }
+    return false;
   },
-  saveUser: function (usrModel){
+  saveUser: usrModel => {
     let userdata = JSON.stringify(usrModel);
   	//Data User
-    fs.writeFile('./user.json', userdata, function (err) {
+    writeFile('./user.json', userdata, err => {
         if (err) {
           console.log('There has been an error saving your configuration data.');
           console.log(err.message);
