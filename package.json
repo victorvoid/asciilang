@@ -53,7 +53,13 @@
     "type": "git",
     "url": "https://github.com/Victor Igor/asciilang"
   },
-  "keywords": [],
+  "keywords": [
+    "ascii",
+    "asciilang",
+    "english",
+    "Foreign languages",
+    "languages"
+  ],
   "bugs": {
     "url": "https://github.com/Victor Igor/asciilang/issues"
   },
