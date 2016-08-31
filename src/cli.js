@@ -13,9 +13,9 @@ const MessageCLI = `
             ${chalk.red('s')} Start application
 
           ${chalk.blue('Examples')}
-            ${chalk.yellow('$ asciilang start')}
+            ${chalk.green('$ asciilang start')}
               or
-            ${chalk.yellow('$ asciilang s')}
+            ${chalk.green('$ asciilang s')}
 
       `;
 
