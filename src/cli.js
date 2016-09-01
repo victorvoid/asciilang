@@ -4,17 +4,17 @@ import chalk from 'chalk';
 
 const MessageCLI = `
           ${chalk.blue('Usage')}
-            $ asciilang ${chalk.red('<command>')} is one of:
+            ${chalk.white('$ asciilang')} ${chalk.red('<command>')} is one of:
               ${chalk.red('start')}
 
           ${chalk.blue('Options')}
-            -h, --help       show usage information
-            -v, --version    print version info and exit
+            ${chalk.white('-h, --help       show usage information')}
+            ${chalk.white('-v, --version    print version info and exit')}
             ${chalk.red('s')} Start application
 
           ${chalk.blue('Examples')}
             ${chalk.green('$ asciilang start')}
-              or
+              ${chalk.white('or')}
             ${chalk.green('$ asciilang s')}
 
       `;
@@ -34,7 +34,7 @@ export const cliStart = () => {
     return true;
   }else{
     console.log(`
-    ${chalk.black.bgBlue('（っ＾▿＾）asciilang ')}
+    ${chalk.white('（っ＾▿＾）asciilang ')}
     ${chalk.green('👊 Foreign languages for developers')}
     ${MessageCLI}
     `);

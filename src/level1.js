@@ -17,7 +17,7 @@ export default function Level1(arrQuestions, lang){
 					nextLevel(2, arrQuestions, lang);
 					break;
 				case "Descansar":
-					rest(5);
+					rest(60);
 					break
 				case "Repetir nível":
 					nextLevel(1, arrQuestions, lang);
