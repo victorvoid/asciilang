@@ -3,7 +3,6 @@ import {util} from './util';
 import chalk from 'chalk';
 
 export const Questions = file => {	
-	let category = ['common-expressions', 'greetings', 'travels', 'numbers']; //etc
 	let phrases = [];
 	let arr = [];
 	let newObj = {};

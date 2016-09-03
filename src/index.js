@@ -8,9 +8,14 @@ import languages from './languages';
 import {init} from './app';
 import meow  from 'meow';
 import {m, cliStart} from './cli';
-
+import {startCategory} from './categories';
+import notifier from 'node-notifier';
 if(cliStart()){
   util.clean();
+  notifier.notify({
+    'title': 'Asciilang',
+    'message': 'Hello, there! Welcome to the asciilang (˘◡˘)۶'
+  });
   console.log(`Welcome to the ${chalk.blue('asciilang')}`);
   let langUser;
   let usrModel = {
@@ -49,24 +54,8 @@ if(cliStart()){
           console.log('/o/ not');
           break;
       }
-
-      start(langUser);
+      util.clean();
+      startCategory(langUser);
   });
-
-  let start = langUsr => {
-    let questions = [
-      {
-        type: 'list',
-        name: 'category',
-        message: langUsr.messages.messageCategory,
-        choices: langUsr.categories,
-        default: () => util.clean()
-      }
-    ];
-
-    inquirer.prompt(questions).then(answers => {
-      init(answers.category, langUsr);//starting
-    });
-  }
 }
 

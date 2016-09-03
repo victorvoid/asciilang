@@ -4,6 +4,7 @@
   "description": "Foreign languages for developers.",
   "files": [
     "lib/app.js",
+    "lib/categories.js",
     "lib/index.js",
     "lib/languages.js",
     "lib/level1.js",
@@ -16,8 +17,22 @@
     "lib/util.js",
     "lib/cli.js",
     "lib/phrases/common-expressions-pt-eng.txt",
+    "lib/phrases/greetings-pt-eng.txt",
     "lib/phrases/making-friends-pt-eng.txt",
-    "lib/phrases/greetings-pt-eng.txt"
+    "lib/phrases/travel-directions-pt-eng.txt",
+    "lib/phrases/numbers-money-pt-eng.txt",
+    "lib/phrases/location-pt-eng.txt",
+    "lib/phrases/phone-internet-pt-eng.txt",
+    "lib/phrases/time-dates-pt-eng.txt",
+    "lib/phrases/accommodations-pt-eng.txt",
+    "lib/phrases/dining-pt-eng.txt",
+    "lib/phrases/entertainment-pt-eng.txt",
+    "lib/phrases/shopping-pt-eng.txt",
+    "lib/phrases/communication-difficulties-pt-eng.txt",
+    "lib/phrases/emergency-health-pt-eng.txt",
+    "lib/phrases/general-questions-pt-eng.txt",
+    "lib/phrases/work-pt-eng.txt",
+    "lib/phrases/weather-pt-eng.txt"
   ],
   "main": "lib/index.js",
   "scripts": {
@@ -33,7 +48,8 @@
     "chalk": "^1.1.3",
     "inquirer": "^1.1.2",
     "meow": "^3.7.0",
-    "node-notifier": "^4.6.1"
+    "node-notifier": "^4.6.1",
+    "opn": "^4.0.2"
   },
   "devDependencies": {
     "babel-cli": "^6.6.5",
