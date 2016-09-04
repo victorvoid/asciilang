@@ -9,7 +9,7 @@
 
 *:uk: [Jump to the English version](README-eng.md)* (¬‿¬)
 
-Você precisa abrir o terminal diariamente ? Se você tem como rotina usar o terminal, seja pra compilar algo ou pra fazer tarefas, que tal aproveitar o nosso amigo para praticar um idioma ? Com asciinema fica mais fácil e totalmente offline.
+Você precisa abrir o terminal diariamente ? Se você tem como rotina usar o terminal, seja pra compilar algo ou pra fazer tarefas, que tal aproveitar o nosso amigo para praticar um idioma ? Com asciilang fica mais fácil e totalmente offline.
 
 ## Instalação
 
