@@ -11,6 +11,8 @@
 
 Você precisa abrir o terminal diariamente ? Se você tem como rotina usar o terminal, seja pra compilar algo ou pra fazer tarefas, que tal aproveitar o nosso amigo para praticar um idioma ? Com asciilang fica mais fácil e totalmente offline.
 
+[![asciicast](https://asciinema.org/a/84766.png)](https://asciinema.org/a/84766)
+
 ## Instalação
 
 Instale o `asciilang` usando [npm](https://www.npmjs.com/) (vamos supor que você tenha pré-instalado [node.js](https://nodejs.org/)).
