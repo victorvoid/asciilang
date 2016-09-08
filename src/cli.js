@@ -40,4 +40,4 @@ export const cliStart = () => {
     `);
     return false;
   }
-}
+};

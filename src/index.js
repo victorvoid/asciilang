@@ -27,35 +27,39 @@ if(cliStart()){
     {
       type: 'list',
       name: 'mylang',
-      message: 'I speak',
+      message: 'What do you wanna practice ?',
       choices: [
-        { 
+        {
           name: "Português",
-          value: "ptbr"
+          value: "pt"
         },
-        { name: "English", 
+        { name: "English",
           value: "eng"
         }
       ]
     }
   ];
-
-  inquirer.prompt(mylang).then(answers => {
-
-    usrModel.mylang = answers.mylang;
-      switch(usrModel.mylang){
-        case "eng":
-          langUser = languages.ENG;
-          break;
-        case "ptbr":
-          langUser = languages.PTBR;
-          break;
-        default:
-          console.log('/o/ not');
-          break;
-      }
-      util.clean();
-      startCategory(langUser);
-  });
+    if(!!m.flags.pt || !!m.flags.eng){
+        langUser = m.flags.pt ? languages.PTBR: m.flags.eng ? languages.ENG: null;
+        util.clean();
+        startCategory(langUser);
+    }else{
+        inquirer.prompt(mylang).then(answers => {
+            usrModel.mylang = answers.mylang;
+            switch(usrModel.mylang){
+            case "eng":
+                langUser = languages.ENG;
+                break;
+            case "pt":
+                langUser = languages.PTBR;
+                break;
+            default:
+                console.log('/o/ not');
+                break;
+            }
+            util.clean();
+            startCategory(langUser);
+        });
+    }
 }
 
