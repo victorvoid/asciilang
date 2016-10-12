@@ -9,7 +9,7 @@
 
 *:uk: [Jump to the English version](README-eng.md)* (¬‿¬)
 
-Você precisa abrir o terminal diariamente ? Se você tem como rotina usar o terminal, seja pra compilar algo ou pra fazer tarefas, que tal aproveitar o nosso amigo para praticar um idioma ? Com asciilang fica mais fácil e totalmente offline.
+Você precisa abrir o terminal diariamente ? Se você tem como rotina usar o terminal, seja para compilar algo ou para fazer tarefas, que tal aproveitar o nosso amigo para praticar um idioma ? Com asciilang fica mais fácil e totalmente offline.
 
 [![asciicast](https://asciinema.org/a/84766.png)](https://asciinema.org/a/84766)
 
@@ -109,6 +109,8 @@ export default function LevelX(arrQuestions, lang){
 | `npm run build` | to build an optimized version of your application in /dist
 | `npm run dev` | build with watch
 | `npm run test` | to launch your tests with mocha
+
+Veja também o [codelang](https://github.com/victorvoid/codelang) e use no navegador.
 
 ## License
 
